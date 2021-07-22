@@ -1,0 +1,14 @@
+2020-05-27 11:50:06,062 INFO [root] [test_01_login.py(test_login:66)] - ---------------->执行登陆用例
+2020-05-27 11:50:06,392 INFO [root] [test_01_login.py(test_login:71)] - 断言正向结果
+2020-05-27 11:50:12,916 INFO [root] [test_01_login.py(test_login:74)] - None
+2020-05-27 11:50:15,748 INFO [root] [test_02_add_goods.py(test_add_cart:64)] - ------------->开始执行加入购物车的测试用例
+2020-05-27 11:50:47,016 INFO [root] [test_03_submit_order.py(test_submit_order:30)] - -------->执行提交订单测试用例
+2020-05-27 15:46:04,872 INFO [root] [test_01_login.py(test_login:66)] - ---------------->执行登陆用例
+2020-05-27 15:46:05,189 INFO [root] [test_01_login.py(test_login:71)] - 断言正向结果
+2020-05-27 15:46:12,057 INFO [root] [test_01_login.py(test_login:74)] - None
+2020-05-27 15:46:14,868 INFO [root] [test_02_add_goods.py(test_add_cart:64)] - ------------->开始执行加入购物车的测试用例
+2020-05-27 15:46:40,294 INFO [root] [test_03_order.py(test_01_submit_order:36)] - -------->执行提交订单测试用例
+2020-05-27 16:25:05,125 INFO [root] [test_02_add_goods.py(test_add_cart:66)] - ------------->开始执行加入购物车的测试用例
+2020-05-27 16:25:26,828 INFO [root] [test_02_add_goods.py(test_add_cart:66)] - ------------->开始执行加入购物车的测试用例
+2020-05-27 16:31:58,939 INFO [root] [test_02_add_goods.py(test_add_cart:66)] - ------------->开始执行加入购物车的测试用例
+2020-05-27 16:32:26,451 INFO [root] [test_02_add_goods.py(test_add_cart:66)] - ------------->开始执行加入购物车的测试用例
